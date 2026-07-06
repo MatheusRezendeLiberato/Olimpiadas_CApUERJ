@@ -1,0 +1,36 @@
+[{
+   "bandeira": "Amarela",
+   "pontuacao": 100,
+   "ouro": 5,
+   "prata": 3,
+   "bronze": 2,
+   "quarto": 44,
+   "posicao": 1 
+},
+{
+   "bandeira": "Azul",
+   "pontuacao": 101,
+   "ouro": 4,
+   "prata": 4,
+   "bronze": 2,
+   "quarto": 1,
+   "posicao": 2
+},
+{
+   "bandeira": "Vermelha",
+   "pontuacao": 80,
+   "ouro": 3,
+   "prata": 5,
+   "bronze": 1,
+   "quarto": 1,
+   "posicao": 3
+},
+{
+   "bandeira": "Verde",
+   "pontuacao": 75,
+   "ouro": 2,
+   "prata": 3,
+   "bronze": 4,
+   "quarto": 1,
+   "posicao": 4
+}]
